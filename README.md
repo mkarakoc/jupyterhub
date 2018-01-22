@@ -9,7 +9,7 @@
 
 # [JupyterHub](https://github.com/jupyterhub/jupyterhub)
 
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jupyterhub/jupyterhub/master)
 [![PyPI](https://img.shields.io/pypi/v/jupyterhub.svg)](https://pypi.python.org/pypi/jupyterhub)
 [![Documentation Status](https://readthedocs.org/projects/jupyterhub/badge/?version=latest)](http://jupyterhub.readthedocs.org/en/latest/?badge=latest)
 [![Documentation Status](http://readthedocs.org/projects/jupyterhub/badge/?version=0.7.2)](http://jupyterhub.readthedocs.io/en/0.7.2/?badge=0.7.2)
